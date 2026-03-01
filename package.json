@@ -1,0 +1,28 @@
+{
+  "name": "project-continuation-guide",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "vite build",
+    "lint": "tsc --noEmit",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "lucide-react": "^0.562.0",
+    "motion": "^12.34.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "crypto": "^1.0.1",
+    "tsx": "^4.21.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

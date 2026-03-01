@@ -1,0 +1,5 @@
+{
+  "name": "Remote-to-Native_Mac_Dev",
+  "description": "A project dashboard for streaming and syncing cloud-generated code to a local macOS VM (UTM) for native execution.",
+  "requestFramePermissions": []
+}
